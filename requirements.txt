@@ -1,0 +1,4 @@
+flask
+flask_cors
+Jinja2
+gunicorn
